@@ -1,3 +1,12 @@
+Name: Girija Kumari Amudalapalli
+Domain:Machine learning
+
+Organization: CodtechIT Solutions Private Limited
+
+Internship Period: 17 may 2026 - 28 june 2026
+
+Intern ID: CITS946
+
 # Loan Approval Predictor
 
 A Machine Learning project that predicts whether a loan application will be approved based on applicant information such as income, education, credit history, and other relevant features.
