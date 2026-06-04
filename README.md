@@ -1,4 +1,8 @@
 Name: Girija Kumari Amudalapalli
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0e1b467999168346cc6c2cc87b965936ce940963
 Domain:Machine learning
 
 Organization: CodtechIT Solutions Private Limited
